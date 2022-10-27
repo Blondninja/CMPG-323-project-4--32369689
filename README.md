@@ -78,6 +78,8 @@ Once the test is successfully You will return to UiPath Studio where you can run
 
 REFERENCE:
 
+https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=10+CMPG322++-+Project+4+20+Oct.mp4
+
 Adit Kansara. 2019. Excel Automation with RPA - Excel Application RPA | UiPath. UiPath Blog. https://www.uipath.com/community/rpa-community-blog/excel-automation-application-rpa Date of access: 25 Oct. 2022.
 
 Boboc, M. s.a. Excel Automation Tutorial - DataTables Automation | UiPath. https://www.uipath.com/learning/video-tutorials/excel-datatables-automation Date of access: 25 Oct. 2022.
