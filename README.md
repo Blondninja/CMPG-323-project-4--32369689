@@ -74,7 +74,16 @@ PROCEDURE:
 NB: when you run the uipath studio , it will open the connected office , please always logout when you want to do the testing, and they might be errors which i couldnt solve , however the steps are there which i have provided but still not 100%
 
 Click on the test that you would like to run and click the run button in UiPath Studio , when its displayed please press logout and then the automation will take place smoothly.
-Once the test is successfully You will return to UiPath Studio where you can run another test 
+Once the test is successfully You will return to UiPath Studio where you can run another test
+
+![Screenshot 2022-10-27 144617](https://user-images.githubusercontent.com/110628936/198290920-fd95fd31-0b98-48a0-94a2-7487d51685db.png)
+
+
+
+
+
+
+
 
 REFERENCE:
 
