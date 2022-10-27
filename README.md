@@ -1,8 +1,12 @@
 # CMPG-323-project-4--32369689
 
-This repository contains suite automation scripts for Project 4 of CMPG 323 created in UIPath Studio Community, the scripts automate the testing of Basic CRUD activities on the Connected Office Web app
+NOTE* All the creates for categories, zones , and device is working perfect
+    * the delete,update ,create and insert are having correct structure following right steps but not running 100%
 
-Pre requisites
+This repository contains  automation scripts for Project 4 of CMPG 323 created in UIPath Studio Community, the script test Basic CRUD activities on the Connected Office Web app
+
+REQUIREMENT:
+
 Before running this project please ensure that you have the following software installed on your computer:
 
 UIPath Studio (Community) Minimum version 2022.10.2 (Recommended)
@@ -12,26 +16,44 @@ Microsoft Edge
 Installation and usage
 Clone the Git repository into a local folder
 Open "ConnectedOffice Webapp User Acceptance Testing" project in UIPath Studio
+
 The Structure of the test suite is broken up as follows:
+
+Delete - where you delete the selected item permanently and will never be recovered back.
+Insert- is when you add an category to the office 
+update - is when you change data from something to something eg. from maths to science 
+
+NB: each of the test is done on each of the categories, device, and zones 
+
 Category
-Delete
-InsertCategories
-Read
-Update
+
+*DeleteCategories
+*InsertCategories
+*UpdateCategories
+*Main.xaml
+
 Devices
-Delete
-InsertDevice
-Read
-Update
+
+*DeleteDevices
+*InsertDevice
+*UpdateDevices
+*Main.xaml
+
 Zones
-Delete
-InsertZones
-Read
-Update
-Click on the test that you would like to run and click the run button in UiPath Studio (Please ensure you run Insert Category and Zone prior to running Insert devices since category and zone data is used in device table)
+
+*DeleteZones
+*InsertZones
+*UpdateZones
+*Main.xaml
+
+PROCEDURE:
+
+NB: when you run the uipath studio , it will open the connected office , please always logout when you want to do the testing, and they might be errors which i couldnt solve , however the steps are there which i have provided but still not 100%
+
+Click on the test that you would like to run and click the run button in UiPath Studio , when its displayed please press logout and then the automation will take place smoothly.
 Once the test is successfully You will return to UiPath Studio where you can run another test 
 
-References
+REFERENCE:
 
 Adit Kansara. 2019. Excel Automation with RPA - Excel Application RPA | UiPath. UiPath Blog. https://www.uipath.com/community/rpa-community-blog/excel-automation-application-rpa Date of access: 25 Oct. 2022.
 
